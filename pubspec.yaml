@@ -1,4 +1,4 @@
-name: starflut-new
+name: starflut_new
 description: A new flutter plugin project,which supports flutter to interact with other scripting languages such as python, java, ruby, golang, rust, etc. It is easy to use, supports android, ios, and desktop
 version: 1.0.0
 homepage: https://github.com/Ayush-Suman/starflut-new
