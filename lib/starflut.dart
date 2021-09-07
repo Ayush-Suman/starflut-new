@@ -1,3 +1,5 @@
+library starflut;
+
 import 'dart:async';
 import 'dart:core';
 import 'dart:typed_data';
