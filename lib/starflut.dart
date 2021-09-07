@@ -1,4 +1,4 @@
-library starflut-new;
+library starflut_new;
 
 import 'dart:async';
 import 'dart:core';
